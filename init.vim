@@ -8,21 +8,18 @@ call plug#begin()
 
 " The basics
 Plug 'tpope/vim-sensible'
-
-" Trying this out
-"Plug 'junegunn/vim-easy-align'
 Plug 'ervandew/supertab'
 Plug 'frazrepo/vim-rainbow'
-Plug 'morhetz/gruvbox'
+
+Plug 'dense-analysis/ale'
 Plug 'morhetz/gruvbox'
 Plug 'vim-airline/vim-airline'
-Plug 'dense-analysis/ale'
 "Plug 'vim-airline/vim-airline-themes'
+"Plug 'junegunn/vim-easy-align'
 
 " Initialize plugin system
 call plug#end()
 " END PLUGINS
-
 
 " Colors
 colorscheme gruvbox
