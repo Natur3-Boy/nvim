@@ -38,7 +38,10 @@ Just follow the directions here:
 
 After that is done, you're almost ready.
 Download the init.vim file from this repo and place it in 
-``~/.config/nvim/``
+``~/.config/nvim/``,
+or if you're using vim, 
+just place it in your home folder and name it `.vimrc`
+(I think Windows calls it `_vimrc`).
 
 Lastly, run nvim.
 In nvim, type
