@@ -72,11 +72,12 @@ You can simply cursor over the file you want to open with the `hjkl` keys and pr
 
 # Learn
 
-[ThePrimeagen](https://www.youtube.com/watch?v=H3o4l4GVLW0&list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R "Vim IDE playlist")
+## [ThePrimeagen](https://www.youtube.com/watch?v=H3o4l4GVLW0&list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R "Vim IDE playlist")
 
-LukeSmith, aka "Vim Deisel"
-(https://odysee.com/@Luke:7/learn-vim-exiting-movement-insert-mode:8)
-(https://odysee.com/@Luke:7/learn-vim-deletion-text-objects-motions:f)
+## LukeSmith, aka "Vim Deisel"
+
+https://odysee.com/@Luke:7/learn-vim-exiting-movement-insert-mode:8
+https://odysee.com/@Luke:7/learn-vim-deletion-text-objects-motions:f
 
 ## Linux
 
@@ -90,4 +91,6 @@ but it is very helpful even now that I've been using vim for a number of years.
 If it is not already installed on your system,
 you should be able to find it with your package manager.
 
-## [Windows](https://github.com/HanielF/VimTutor)
+## Windows
+
+Click [here](https://github.com/HanielF/VimTutor) to read the vimtutor text file online.
